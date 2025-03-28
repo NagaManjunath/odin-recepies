@@ -1,0 +1,27 @@
+* {
+    background-color: antiquewhite;
+}
+
+h1 {
+    text-align: center;
+    text-decoration-line: underline;
+    color: rgb(229, 116, 10);
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+.mainBlock {
+    margin: 5%;
+}
+
+#footer {
+    text-align: center !important;
+}
+
+#footer a {
+    text-decoration: none;
+    color: inherit;
+}

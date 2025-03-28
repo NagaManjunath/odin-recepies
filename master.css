@@ -1,0 +1,15 @@
+* {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(230, 187, 135);
+}
+
+h1 {
+    text-align: center;
+    text-decoration-line: underline;
+    color: brown;
+}
+
+a {
+    color: black;
+    text-decoration-line: none;
+}
